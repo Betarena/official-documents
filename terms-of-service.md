@@ -54,7 +54,7 @@ We do not encourage gambling and if you have a history of gambling addiction or 
 
 The legal age for gambling varies according to country, therefore we advise you to carry out local research. If you are under 18 years of age or under the legal age for gambling in your jurisdiction, you should leave this website immediately.
 
-If you need to contact us, you may do so by emailing us at support@betarena.com and we will answer you as quickly as possible.
+If you need to contact us, you may do so by emailing us at partners@betarena.com and we will answer you as quickly as possible.
 
 ## General Terms
 
