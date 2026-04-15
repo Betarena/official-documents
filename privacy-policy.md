@@ -74,7 +74,7 @@ Where you have provided us with your implicit consent to process your personal d
 
 You have the right to obtain from us confirmation that your personal data is processed by World of Sports and have access to such data (including the purposes of the processing, the recipients to whom the personal data have been or will be disclosed, and the period for which the personal data will be stored).
 
-To exercise your rights you may contact us by sending an email to feedback@worldofsports.com or in writing to Second Act SARL at the address set out in Section 1 above.
+To exercise your rights you may contact us by sending an email to feedback@worldofsports.io or in writing to Second Act SARL at the address set out in Section 1 above.
 
 Please note the following if you wish to exercise your rights:
 
@@ -153,5 +153,5 @@ This add-on stores “opt-out” information on your device that serves to match
 
 | **Responsible for this web site:** | Second Act SARL. |
 |------------------------------------|-------------------|
-| **Contact Address:** | 18 Boulevard Montmartre, Paris 75009, Email: support@worldofsports.com |
+| **Contact Address:** | 18 Boulevard Montmartre, Paris 75009, Email: support@worldofsports.io |
 | **Registration:** | Second Act, 18 Boulevard Montmartre, Paris 75009, TVA: FR10752954222 |
