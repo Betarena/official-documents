@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Who is responsible for looking after your personal data?](#who-is-responsible-for-looking-after-your-personal-data)
-3. [betarena.com and data protection](#betarena-com-and-data-protection)
+3. [World of Sports and data protection](#world-of-sports-and-data-protection)
 4. [Is Second Act SARL processing personal data?](#is-second-act-sarl-processing-personal-data)
 5. [Which Personal Data is collected?](#which-personal-data-is-collected)
 6. [How we use your personal data?](#how-we-use-your-personal-data)
@@ -14,7 +14,7 @@
 
 ## Introduction
 
-This policy explains what information we collect when you use Betarena sites, services, mobile applications, products, and content. It also has information about how we store, use, transfer, and delete that information. It also provides important information on how we process information that may relate to you ("personal data") and on your statutory rights.
+This policy explains what information we collect when you use World of Sports sites, services, mobile applications, products, and content. It also has information about how we store, use, transfer, and delete that information. It also provides important information on how we process information that may relate to you ("personal data") and on your statutory rights.
 
 This Policy is not intended to override the terms of any contract you have with us, nor rights you might have under data protection laws. Our aim is not just to comply with privacy law. It’s to earn your trust.
 
@@ -24,9 +24,9 @@ Second Act - 18 Boulevard Montmartre Paris 75009 is principally responsible for 
 
 You should be aware that although we are principally responsible for looking after your personal data, information may be held in databases that can be accessed by other companies. When accessing your personal data, all companies will comply with the standards set out in this Policy.
 
-## betarena.com and data protection
+## World of Sports and data protection
 
-By submitting personal data to betarena.com, through the website or otherwise, you are deemed to have given your consent to Second Act SARL to collect and process your personal data and more specifically to have agreed to the following:
+By submitting personal data to World of Sports, through the website or otherwise, you are deemed to have given your consent to Second Act SARL to collect and process your personal data and more specifically to have agreed to the following:
 
 ## Is Second Act SARL processing personal data?
 
@@ -72,9 +72,9 @@ We work with many third parties, to help manage our business and delivery servic
 
 Where you have provided us with your implicit consent to process your personal data mentioned here above, you have the right to withdraw this consent at any time. This will however not affect the lawfulness of the past processing.
 
-You have the right to obtain from us confirmation that your personal data is processed by betarena.com and have access to such data (including the purposes of the processing, the recipients to whom the personal data have been or will be disclosed, and the period for which the personal data will be stored).
+You have the right to obtain from us confirmation that your personal data is processed by World of Sports and have access to such data (including the purposes of the processing, the recipients to whom the personal data have been or will be disclosed, and the period for which the personal data will be stored).
 
-To exercise your rights you may contact us by sending an email to feedback@betarena.com or in writing to Second Act SARL at the address set out in Section 1 above.
+To exercise your rights you may contact us by sending an email to feedback@worldofsports.com or in writing to Second Act SARL at the address set out in Section 1 above.
 
 Please note the following if you wish to exercise your rights:
 
@@ -153,6 +153,5 @@ This add-on stores “opt-out” information on your device that serves to match
 
 | **Responsible for this web site:** | Second Act SARL. |
 |------------------------------------|-------------------|
-| **Contact Address:** | 18 Boulevard Montmartre, Paris 75009, Email: support@betarena.com |
+| **Contact Address:** | 18 Boulevard Montmartre, Paris 75009, Email: support@worldofsports.com |
 | **Registration:** | Second Act, 18 Boulevard Montmartre, Paris 75009, TVA: FR10752954222 |
-

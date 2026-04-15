@@ -12,7 +12,7 @@
 
 ## Introduction
 
-The Betarena platforms are property of Second Act SARL.
+The World of Sports platforms are property of Second Act SARL.
 
 This is an agreement between You and Second Act SARL. By accessing our site you agree to all terms and conditions related to it. If you are under 18 years of age or you do not agree to the present terms you should cease accessing the site and all related pages. It is your full responsibility to read the terms and conditions since we will accept no liability for failure to understand the terms.
 
@@ -54,17 +54,17 @@ We do not encourage gambling and if you have a history of gambling addiction or 
 
 The legal age for gambling varies according to country, therefore we advise you to carry out local research. If you are under 18 years of age or under the legal age for gambling in your jurisdiction, you should leave this website immediately.
 
-If you need to contact us, you may do so by emailing us at partners@betarena.com and we will answer you as quickly as possible.
+If you need to contact us, you may do so by emailing us at partners@worldofsports.com and we will answer you as quickly as possible.
 
 ## General Terms
 
-1. Betarena includes links to external sites. Our service has included links to these sites to provide you with access to information and services that you may find useful or interesting. Betarena is not responsible for the content of these sites or for anything provided by them.
-2. You agree that Betarena is not responsible for any gaming, betting or other transaction carried on with any of the betting partners with whom you are or become registered.
-3. Registration with a betting partner through the Assisted Registration Service forms a contract between you and that betting partner on their terms and conditions and will be subject to any additional notice or disclaimer of the relevant betting partner. Betarena is neither responsible for nor a party to any contract made between you and a betting partner.
-4. Registration with a betting partner through the Assisted Registration Service forms a contract between you and that betting partner on their terms and conditions and will be subject to any additional notice or disclaimer of the relevant betting partner. Betarena is neither responsible for nor a party to any contract made between you and a betting partner.
+1. World of Sports includes links to external sites. Our service has included links to these sites to provide you with access to information and services that you may find useful or interesting. World of Sports is not responsible for the content of these sites or for anything provided by them.
+2. You agree that World of Sports is not responsible for any gaming, betting or other transaction carried on with any of the betting partners with whom you are or become registered.
+3. Registration with a betting partner through the Assisted Registration Service forms a contract between you and that betting partner on their terms and conditions and will be subject to any additional notice or disclaimer of the relevant betting partner. World of Sports is neither responsible for nor a party to any contract made between you and a betting partner.
+4. Registration with a betting partner through the Assisted Registration Service forms a contract between you and that betting partner on their terms and conditions and will be subject to any additional notice or disclaimer of the relevant betting partner. World of Sports is neither responsible for nor a party to any contract made between you and a betting partner.
 
 ## Suspension and Termination of Services
 
-1. Betarena may suspend the operation of the Site for repair or maintenance work or in order to update or upgrade the contents or functionality of the Site from time to time. Access to or use of the Site or any Sites or pages linked to it will not necessarily be uninterrupted or error-free.
-2. Betarena may terminate this agreement and your right to use of the Site and/or the Services immediately in the event you breach any of these terms and conditions or any time at Second Act discretion.
+1. World of Sports may suspend the operation of the Site for repair or maintenance work or in order to update or upgrade the contents or functionality of the Site from time to time. Access to or use of the Site or any Sites or pages linked to it will not necessarily be uninterrupted or error-free.
+2. World of Sports may terminate this agreement and your right to use of the Site and/or the Services immediately in the event you breach any of these terms and conditions or any time at Second Act discretion.
 3. Whilst every effort is made to ensure all the odds displayed on our site are up to date, differences between these odds and those actually available from quoted betting partners may exist. Please ensure the details of your bets are correct before you place them.
